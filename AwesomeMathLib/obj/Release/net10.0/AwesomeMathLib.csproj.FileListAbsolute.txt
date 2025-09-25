@@ -1,0 +1,12 @@
+C:\Git\AwesomeMathLib\AwesomeMathLib\bin\Release\net10.0\AwesomeMathLib.deps.json
+C:\Git\AwesomeMathLib\AwesomeMathLib\bin\Release\net10.0\AwesomeMathLib.dll
+C:\Git\AwesomeMathLib\AwesomeMathLib\bin\Release\net10.0\AwesomeMathLib.pdb
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.AssemblyInfoInputs.cache
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.AssemblyInfo.cs
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.csproj.CoreCompileInputs.cache
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.sourcelink.json
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.dll
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\refint\AwesomeMathLib.dll
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.pdb
+C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\ref\AwesomeMathLib.dll

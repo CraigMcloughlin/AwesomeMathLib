@@ -32,7 +32,7 @@
       "sources": {
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/CraigMcloughlin/index.json": {}
+        "https://github.com/CraigMcloughlin/AwesomeMathLib": {}
       },
       "frameworks": {
         "net10.0": {
