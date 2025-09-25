@@ -5,7 +5,7 @@
     <version>0.1.0</version>
     <authors>Nick Chapsas</authors>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/CraigMcloughlin/AwesomeMathLib" branch="refs/heads/main" commit="e6ab85ebda92a282cc87c4cb2c8bec2f6fdfd3da" />
+    <repository type="git" url="https://github.com/CraigMcloughlin/AwesomeMathLib" branch="refs/heads/main" commit="38472951e9947156e5579930fed0a1274b2dffda" />
     <dependencies>
       <group targetFramework="net10.0" />
     </dependencies>
