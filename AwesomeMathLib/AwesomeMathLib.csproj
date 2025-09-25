@@ -4,6 +4,21 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>AwesomeMathLib</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Nick Chapsas</Authors>
+    <RepositoryUrl>https://github.com/CraigMcloughlin/AwesomeMathLib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+
+    <DebugType>portable</DebugType>
+
   </PropertyGroup>
 
 </Project>
