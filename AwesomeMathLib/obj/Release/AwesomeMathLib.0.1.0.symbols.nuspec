@@ -5,12 +5,16 @@
     <version>0.1.0</version>
     <authors>Nick Chapsas</authors>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/CraigMcloughlin/AwesomeMathLib" branch="refs/heads/main" commit="38472951e9947156e5579930fed0a1274b2dffda" />
+    <repository type="git" url="https://github.com/CraigMcloughlin/AwesomeMathLib.git" branch="refs/heads/main" commit="0e1513dc6f33da3f379c18ba54ce48062aea4a01" />
     <dependencies>
       <group targetFramework="net10.0" />
     </dependencies>
   </metadata>
   <files>
     <file src="C:\Git\AwesomeMathLib\AwesomeMathLib\bin\Release\net10.0\AwesomeMathLib.pdb" target="lib\net10.0\AwesomeMathLib.pdb" />
+    <file src="C:\Git\AwesomeMathLib\AwesomeMathLib\bin\Release\net10.0\AwesomeMathLib.dll" target="lib\net10.0\AwesomeMathLib.dll" />
+    <file src="C:\Git\AwesomeMathLib\AwesomeMathLib\MathUtil.cs" target="src\AwesomeMathLib\MathUtil.cs" />
+    <file src="C:\Git\AwesomeMathLib\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.GlobalUsings.g.cs" target="src\AwesomeMathLib\obj\Release\net10.0\AwesomeMathLib.GlobalUsings.g.cs" />
+    <file src="C:\Git\AwesomeMathLib\AwesomeMathLib\AwesomeMathLib.csproj" target="src\AwesomeMathLib\AwesomeMathLib.csproj" />
   </files>
 </package>
