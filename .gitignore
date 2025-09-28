@@ -1,0 +1,57 @@
+# ---- Build output (any depth)
+**/bin/
+**/obj/
+**/out/
+**/publish/
+artifacts/
+**/TestResults/
+
+# Incremental build caches / generated
+*.obj
+*.generated.cs
+project.assets.json
+*.cache
+*.tlog
+*.tmp
+*.log
+
+# Debug symbols (usually don’t commit)
+*.pdb
+*.mdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/packages/
+# If you use paket, uncomment:
+# .paket/
+# paket-files/
+
+# Rider / Visual Studio / VS Code
+.vs/
+.idea/
+.vscode/
+_ReSharper.*/
+*.[Rr]e[Ss]harper
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.DotSettings.user
+
+# Coverage / test tools
+coverage/
+*.coverage
+*.coveragexml
+*.opencover.xml
+TestResult*/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: front-end stuff often present in ASP.NET templates
+node_modules/
+wwwroot/lib/
